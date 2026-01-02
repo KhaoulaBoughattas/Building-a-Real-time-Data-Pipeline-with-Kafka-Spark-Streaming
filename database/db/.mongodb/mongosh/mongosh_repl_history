@@ -1,0 +1,32 @@
+db.CountryAmount.find().pretty()
+show collections
+use Analysis
+db.CountryAmount.find().pretty()
+show collections
+use Analysis
+show collections
+use Analysis
+show dbs
+db.createCollection("CountryAmount")
+use Analysis
+show collections
+use Analysis
+show collections
+use Analysis
+exit
+db.ProductAmount.countDocuments()
+db.GenderAmount.countDocuments()
+db.CountryAmount.countDocuments()
+db.ProductAmount.find().pretty()
+db.GenderAmount.find().pretty()
+db.CountryAmount.find().pretty()
+use Analysis
+exit
+db.GenderAmount.find().pretty()
+exit
+db.GenderAmount.find().pretty()
+db.CountryAmount.find().pretty()
+db.ProductAmount.find().pretty()
+db.GenderAmount.find().pretty()
+db.CountryAmount.find().pretty()
+use Analysis

@@ -1,0 +1,37 @@
+# Python
+*.pyc
+__pycache__/
+*.pkl
+
+# Virtual environments
+workspace/venv_final/
+workspace/venv_clean/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editors
+.vscode/
+.idea/
+
+# Kafka / Spark cache
+spark-ivy-cache/
+*.jar
+
+# Secrets / configs
+*.toml
+# Python virtual environments
+workspace/venv_real/
+workspace/venv_clean/
+
+# Cache et checkpoints
+.ipynb_checkpoints/
+spark-ivy-cache/
+*.jar
+
+# IDE / editors
+.vscode/
+.idea/
+
+# Secrets / configs
+*.toml
